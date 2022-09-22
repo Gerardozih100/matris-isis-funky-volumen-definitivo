@@ -1,11 +1,12 @@
 {
-    "name": "Matris Isis Funky Volumen Definitivo",
+    "name": "Matris Agua Hirviendo",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-max7219_8x8": "github:alankrantas/pxt-max7219_8x8#v0.0.3"
+        "pxt-max7219_8x8": "github:alankrantas/pxt-max7219_8x8#v0.0.3",
+        "robotbit": "github:kittenbot/pxt-robotbit#v0.4.3"
     },
     "files": [
         "main.blocks",
